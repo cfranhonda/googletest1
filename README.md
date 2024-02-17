@@ -43,14 +43,6 @@ This repository is a merger of the formerly separate GoogleTest and GoogleMock
 projects. These were so closely related that it makes sense to maintain and
 release them together.
 
-### Getting Started
-
-See the [GoogleTest User's Guide](https://google.github.io/googletest/) for
-documentation. We recommend starting with the
-[GoogleTest Primer](https://google.github.io/googletest/primer.html).
-
-More information about building GoogleTest can be found at
-[googletest/README.md](googletest/README.md).
 
 ## Features
 
